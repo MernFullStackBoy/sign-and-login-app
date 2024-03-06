@@ -1,0 +1,21 @@
+@media screen and (max-width: 413px) {
+    .screen-main {
+        max-width: 100%;
+        overflow-x: hidden;
+        height: 100vh;
+    }
+
+    .back {
+        display: none;
+    }
+
+    #screen-main {
+        max-width: 100%;
+        overflow-x: hidden;
+        height: 100vh;
+    }
+
+    #back {
+        display: none;
+    }
+}
